@@ -2,6 +2,5 @@
     "src": "src/lib",
     "subsystems": [
         "ДемоБиблиотека2"
-    ],
-    "dependencies": null
+    ]
 }
