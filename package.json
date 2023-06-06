@@ -1,5 +1,5 @@
 {
-    "src": "scr/lib",
+    "src": "src/lib",
     "subsystems": [
         "ДемоБиблиотека2"
     ],
