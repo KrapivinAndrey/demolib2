@@ -1,7 +1,7 @@
 {
     "src": "scr/lib",
     "subsystems": [
-        "ДемоБиблиотека"
+        "ДемоБиблиотека2"
     ],
     "dependencies": null
 }
